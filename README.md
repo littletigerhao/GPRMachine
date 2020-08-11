@@ -16,5 +16,7 @@ This 241-dimensional dataset comes from the satellite cloud image data recording
 
 # Requirements
 python 3.8.2
+
 sklearn 0.23.1
+
 numpy 1.18.3
